@@ -1,3 +1,4 @@
-public class NPCs {
+public class NPCs extends Characters {
     
+    private boolean inRoom;
 }
