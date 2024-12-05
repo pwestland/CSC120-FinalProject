@@ -1,4 +1,6 @@
 public class House {
 
-    protected class 
+    public String description;
+    protected int nRooms; 
+    
 }
