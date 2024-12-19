@@ -1,8 +1,14 @@
 
 import java.util,*;
 
-public class Character {
+public abstract class Character {
     
     protected String name;
     protected Inventory inventory;
 }
+
+public Character(String name) {
+    this.name = name;
+    this.inventory = new Inventory();
+}
+
