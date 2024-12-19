@@ -3,7 +3,7 @@ import java.util.HashSet;
 
 public class Player extends Character {
     
-    private boolean Inventory inventory;
+    private Inventory inventory;
     private HashSet<String> completedTasks;
 
     public Player(String name) {
