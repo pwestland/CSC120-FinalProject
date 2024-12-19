@@ -1,4 +1,8 @@
+
+import java.util,*;
+
 public class Character {
     
-    private boolean isAlive;
+    protected String name;
+    protected Inventory inventory;
 }
