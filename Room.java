@@ -1,4 +1,4 @@
-public class Rooms {
+public class Room {
     
     public String Name;
     public String Description;

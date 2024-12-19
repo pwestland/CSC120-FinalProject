@@ -1,4 +1,4 @@
-public class Player extends Characters {
+public class Player extends Character {
     
     private boolean isAlive;
 }

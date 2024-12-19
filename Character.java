@@ -1,4 +1,4 @@
-public class Characters {
+public class Character {
     
     private boolean isAlive;
 }
