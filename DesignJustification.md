@@ -1,0 +1,3 @@
+Design justification includes a discussion of at least one (reasonable) **alternative design** that could have been used, and the reasons why you decided against this alternative.
+
+I initially wanted the game to be more of a life or death situation, where there were NPCs and other things with the ability to hurt the player, and they would have to fight them to escape. I decided against this for the sake of simplicity, but also because I decided I liked the objects and puzzles idea better and more interesting, since so many games are already battle games.
