@@ -26,7 +26,7 @@ public class Room {
     }
 
     /* adds an item to the items list */
-    public void addItem(String item) {
+    public void addItem(String item, boolean isClue) {
         items.add(item);
     }
 
@@ -36,8 +36,9 @@ public class Room {
     }
     
     /* adds a clue to the clues list */
-    public void addClue(String clue) {
+    public void addClue(String clue, String clueText) {
         clues.add(clue);
+        clues.add(clueText);
     }
 
     /* returns the exits in the room */
@@ -64,5 +65,4 @@ public class Room {
     public void setHasGhost(boolean hasGhost) {
         this.hasGhost = hasGhost;
     }
-
 }

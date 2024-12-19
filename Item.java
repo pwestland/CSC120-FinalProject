@@ -1,6 +1,7 @@
 
 /* item class */
 public class Item {
+    
     private String name;
     private boolean isClue;
 
